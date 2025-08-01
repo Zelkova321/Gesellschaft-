@@ -1,0 +1,55 @@
+// STEP 1: Normalize function
+const normalize = str => str.trim().toLowerCase();
+
+// STEP 2: Build the dictionary of word → choice number
+const choiceMap = {};
+document.querySelectorAll('.draghome[class*="choice"]').forEach(span => {
+  const text = normalize(span.innerText);
+  const choiceClass = Array.from(span.classList).find(c => c.startsWith('choice'));
+  if (text && choiceClass) {
+    const choiceNum = parseInt(choiceClass.replace('choice', ''), 10);
+    choiceMap[text] = choiceNum;
+  }
+});
+console.log("✅ choiceMap built:", choiceMap);
+
+// STEP 3: Define correct answer texts (normalized)
+const answerTexts = [
+
+];
+
+// STEP 4: Apply answers and trigger input events
+answerTexts.forEach((text, index) => {
+  const dropNum = index + 1;
+  const inputId = `q1391696_6_p${dropNum}`; //change  the value before p$ , you have to change it to the question number
+  const normalizedText = normalize(text);
+  const choiceValue = choiceMap[normalizedText];
+
+  if (!choiceValue) {
+    console.warn(`❌ "${text}" not found in draggable choices`);
+    return;
+  }
+
+  const input = document.getElementById(inputId);
+  if (input) {
+    input.value = choiceValue;
+    input.dispatchEvent(new Event('input', { bubbles: true }));
+    input.dispatchEvent(new Event('change', { bubbles: true }));
+
+    console.log(`✅ Input ${inputId} set to "${text}" (choice${choiceValue})`);
+
+    // Optional: visually update drop zone
+    const dropZone = document.querySelector(`.place${dropNum}`);
+    if (dropZone) {
+      dropZone.innerText = text;
+    }
+  } else {
+    console.warn(`❌ Input not found: ${inputId}`);
+  }
+});
+
+// STEP 4: Trigger Moodle's auto-save mechanism
+if (typeof M !== 'undefined' && M.core_formchangechecker) {
+  M.core_formchangechecker.set_form_submitted();
+  console.log("✅ Moodle formchangechecker marked form as changed.");
+}
