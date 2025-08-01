@@ -1,59 +1,9 @@
 
 // Question answer 4 answer key
 
-  "virtue",    
-  "is",       
-  "virtue",   
-  "something", 
-  "that",     
-  "comes",   
-  "from",     
-  "practice", 
-  "is",       
-  "virtue",    
-  "something", 
-  "that",     
-  "comes",    
-  "from",    
-  "practice",  
-  "or",        
-  "not" ,      
-   "is",       
-  "virtue",    
-  "something", 
-  "that",     
-  "comes",    
-  "from",    
-  "practice",  
-  "or",        
-  "not" ,      
-  "something", 
-  "that",     
-  "comes",    
-  "from",    
-  "practice",
-  "does" ,
-  "virtue" , 
-   "come" ,
-   "from" ,
-   "practice" ,
-   "does" ,
-  "virtue" , 
-   "come" ,
-   "from" ,
-   "practice" ,
-   "or" ,
-   "not" ,
-    "does" ,
-  "virtue" , 
-   "come" ,
-   "from" ,
-   "practice" ,
-   "or" ,
-    "not" ,
-   "come" ,
-   "from" ,
-   "practice" 
+  "virtue", "is", "virtue", "something", "that", "comes", "from", "practice","is", "virtue", "something","that", "comes", "from","practice","or", "not" ,"is", "virtue", "something","that", "comes","from", "practice",  
+  "or","not" ,"something","that", "comes", "from", "practice" , "does" ,"virtue" , "come" ,"from" ,"practice" ,"does" ,"virtue" , "come" ,"from" ,"practice" ,"or" ,"not" ,"does" , "virtue" , "come" ,"from" ,"practice" ,
+   "or" ,"not" ,"come" ,"from" ,"practice" 
 
 // Question 6 answer key
 "virtue" ,
@@ -464,5 +414,21 @@
 "share",
 "his",
 "opinion"
+
+//Quiz 22 
+
+"what", "is", "virtue", "examples", "I", "seem", "to", "have", "hit", "upon", "some", "great", "good", "fortune", ",", "Meno", ",", "if", ",", "while", "seeking", "one", "virtue", "I", "have", "discovered",
+"a", "sort", "of", "swarm", "of", "virtues", "gathered", "about", "you", "And", "so", "too", ",", "surely", "about", "the", "virtues", ":", "even", "if", "they", "are", "many", "and", "of", "all", "sorts",
+",", "still", "they", "all", "have", "some", "one", "and", "the", "same", "form", "through", "which", "they", "are", "virtues", "and", "upon", "which", "one", "would", "somehow", "do", "well", "to", "focus",
+"one's", "gaze", ",", "that", "is", ",", "the", "one", "answering", "him", "who", "has", "asked", "him", "to", "clarify", "that", ",", "namely", ",", "what", "does", "virtue", "happen", "to", "be", ".", "Or",
+"do", "you", "not", "understand", "what", "I'm", "saying", "And", "will", "virtue", "differ", "in", "some", "way", ",", "with", "respect", "to", "its", "being", "virtue", ",", "whether", "it", "exists", "in",
+"a", "child", "or", "in", "an", "old", "man", "or", "in", "a", "woman", "or", "in", "a", "man", "They", "would", "surely", "not", "be", "good", "in", "the", "same", "way", "if", "they", "didn't", "have", "the",
+"same", "virtue", "Again", ",", "Meno", ",", "we", "have", "suffered", "the", "same", "thing", ".", "Although", "seeking", "one", ",", "we", "have", "found", "many", "virtues", ",", "but", "in", "another", "way",
+"than", "we", "did", "just", "now", ".", "But", "the", "one", "which", "exists", "throughout", "all", "of", "these", "we", "are", "not", "able", "to", "find", "out", "stop", "making", "many", "out", "of", "one", ","
+, "as", "those", "who", "like", "to", "jeer", "say", "each", "time", "about", "those", "who", "break", "something", ",", "but", "rather", ",", "leaving", "it", "whole", "healthy", "Therefore", ",", "my", "good", "man", ",",
+"while", "what", "virtue", "is", "as", "a", "whole", "is", "still", "being", "sought", ",", "do", "not", "suppose", "that", "in", "answering", "through", "its", "pieces", "you", "will", "in", "any", "way", "clarify", "it", ",",
+"or", "anything", "else", ",", "by", "speaking", "of", "it", "in", "this", "same", "way", ",", "but", "consider", "that", "you", "will", "be", "in", "need", "again", "of", "the", "very", "same", "question", "Therefore", ",", "my", "good",
+"man", ",", "while", "what", "virtue", "is", "as", "a", "whole", "is", "still", "being", "sought", ",", "do", "not", "suppose", "that", "in", "answering", "through", "its", "pieces", "you", "will", "in", "any", "way", "clarify", "it", ",",
+"or", "anything", "else", ",", "by", "speaking", "of", "it", "in", "this", "same", "way", ",", "but", "consider", "that", "you", "will", "be", "in", "need", "again", "of", "the", "very", "same", "question", "." 
 
 
