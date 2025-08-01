@@ -53,3 +53,4 @@ if (typeof M !== 'undefined' && M.core_formchangechecker) {
   M.core_formchangechecker.set_form_submitted();
   console.log("✅ Moodle formchangechecker marked form as changed.");
 }
+
