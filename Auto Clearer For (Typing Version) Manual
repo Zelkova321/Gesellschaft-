@@ -1,0 +1,19 @@
+const numBoxes = 514;  // Change this to however many sub boxes exist
+
+// STEP 1: Loop through and clear each box
+for (let i = 1; i <= numBoxes; i++) {
+  const id = `q1403130:9_sub${i}_answer`;
+  const el = document.getElementById(id);
+
+  if (el) {
+    el.value = ""; // Clear the box
+
+    // Trigger Moodle's change check
+    require(['core_form/changechecker'], function(changeChecker) {
+      changeChecker.markFormSubmitted();
+      console.log(`🧹 Cleared: ${id}`);
+    });
+  } else {
+    console.warn(`⚠️ Element not found: ${id}`);
+  }
+}
