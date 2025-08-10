@@ -1,0 +1,23 @@
+// STEP 1: Array of answers
+const answers = [
+
+];
+
+// STEP 2: Loop through answers, incrementing sub#
+answers.forEach((ans, i) => {
+  const subNumber = i + 1; // sub1, sub2, sub3...
+  const id = `q1403130:9_sub${subNumber}_answer`;
+  const el = document.getElementById(id);
+
+  if (el) {
+    el.value = ans;
+
+    // Trigger Moodle's change check
+    require(['core_form/changechecker'], function(changeChecker) {
+      changeChecker.markFormSubmitted();
+      console.log(`✅ Set ${id} to: ${ans}`);
+    });
+  } else {
+    console.warn(`⚠️ Element not found: ${id}`);
+  }
+});
