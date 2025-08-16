@@ -1,0 +1,42 @@
+// STEP 1: Array of answers
+// For inputs: just put the text
+// For selects: put the *option text*, not the value
+const answers = [
+
+];
+
+// STEP 2: Loop through answers, incrementing sub#
+answers.forEach((ans, i) => {
+  const subNumber = i + 1; // sub1, sub2, sub3...
+  const id = `q1409850:30_sub${subNumber}_answer`; // adjust "30" if needed
+  const el = document.getElementById(id);
+
+  if (el) {
+    if (el.tagName === "SELECT") {
+      // Find the option whose text matches the answer
+      const option = Array.from(el.options).find(opt => 
+        opt.text.trim().toLowerCase() === ans.trim().toLowerCase()
+      );
+
+      if (option) {
+        el.value = option.value;
+        el.dispatchEvent(new Event("change", { bubbles: true }));
+        console.log(`✅ Set ${id} to: ${option.text} (value=${option.value})`);
+      } else {
+        console.warn(`⚠️ No matching option found for: "${ans}" in ${id}`);
+      }
+    } else {
+      // Handle text/number inputs
+      el.value = ans;
+      el.dispatchEvent(new Event("input", { bubbles: true }));
+      console.log(`✅ Set ${id} to: ${ans}`);
+    }
+
+    // Tell Moodle the form has changed
+    require(['core_form/changechecker'], function(changeChecker) {
+      changeChecker.markFormSubmitted();
+    });
+  } else {
+    console.warn(`⚠️ Element not found: ${id}`);
+  }
+});
