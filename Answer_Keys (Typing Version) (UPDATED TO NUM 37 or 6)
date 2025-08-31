@@ -121,7 +121,7 @@
 
 
 
-//Q32 or Num 1, Quiz 2-3
+//Q32 or Num 1, (THE USUAL VER)
     "In", "paragraph", "3,", "Marcel", "(1950)", "tells", "us", "that", "reflection", "is", 
     "\"nothing", "other", "than", "attention", "...", "directed", "towards", "a", "small", "break", 
     "in", "the", "daily", "chain", "of", "habit\"", "or", "towards", "an", "obstacle", "in", 
@@ -176,7 +176,7 @@
 
 
 
-//Q33 or Num 2, Quiz 2
+//Q33 or Num 2, (FIRST TIME VER)
 // Paragraph 1
     "inner", "life",
 
@@ -199,7 +199,7 @@
 
 
 
-//Q33 or Num 2, Quiz 3 (missing one box on the last part - (just fill it up w anything)!
+//Q33 or Num 2, (USUAL VER)
     "In", "the", "second", "example", "(paragraphs", "4-5),", "Marcel", "(1950)", "tells", "us", 
     "that", "reflection", "is", "not", "just", "the", "asking", "subject", "attending", "to", "an", 
     "object", "one", "owns", "by", "noticing", "it", "is", "lost,", "but", "also", "about", "the", 
@@ -236,7 +236,7 @@
 
 
 
-//Q34 or Number 3, (First time ver)
+//Q34 or Number 3, (FIRST TIME VER)
 "somebody", "of", "whom", "I", "was", "fond",
 "disappointing", "behaviour",
 "our", "friendship",
@@ -278,7 +278,7 @@
 
 
 
-//Q35 or Num 4, (the ver after the first time)
+//Q35 or Num 4, (THE USUAL VER)
 //Words that don't work: concept, one instance of "Reflection", and "richness"
 
     "An", "argument", "raised", "against", "the", "exercise", "of", "reflection", "comes", "from", "a", "“romantically", "rooted", "kind", "of", "philosophy”", "that", "interprets", "life", "as", "“pure", "spontaneity”", "(paragraph", "10).",
@@ -303,7 +303,7 @@
 
 
 
-//Q36 or Num 5, the first time (quiz 1)
+//Q36 or Num 5, (FIRST TIME VER)
 
     "nothing", "other", "than", "attention",
     "rising", "from", "one", "level", "to", "another",
@@ -336,132 +336,91 @@
 
 
 //Q37 or Num 5 (THE USUAL VER) WARNING: UNTESTED, SOME PARTS MAY OR MAY NOT BE CORRECT, PM ANY OF US IF THATS THE CASE
-   "In", "paragraph", "1,", "Marcel", "(1950)", "notifies", "us", "that",
-    "philosophic", "thinking", "moves", "\"towards", "the", "object",
-    "whose", "nature", "it", "seeks", "to", "discover.\"",
+   "In", "paragraph", "1,", "Marcel", "(1950)", "notifies", "us", "that", 
+    "philosophic", "thinking", "moves", "“towards", "the", "object", "whose", 
+    "nature", "it", "seeks", "to", "discover.”", "From", "this", "note,", "we", 
+    "learn", "about", "the", "direction", "of", "primary", "reflection’s", 
+    "movement:", "“towards", "the", "object.”", "In", "Gallagher", "(1984),", 
+    "we", "learn", "that,", "for", "Marcel,", "an", "object", "“is", "something", 
+    "complete", "and", "entire", "outside", "of", "him", "[the", "inquirer],", 
+    "which", "he", "may", "literally", "inspect", "from", "all", "sides”", 
+    "(paragraph", "3).", "Put", "differently,", "an", "object", "is", "that", 
+    "in", "which", "“the", "data", "as", "presented", "do", "not", "include", 
+    "myself”", "(paragraph", "3).", "Because", "primary", "reflection", "is", 
+    "“objective”", "thinking,", "Sweetman", "(2002)", "equates", "primary", 
+    "reflection", "with", "‘ordinary,’", "everyday", "reflection,”", "which", 
+    "is", "“operative", "in", "the", "sciences,", "mathematics,", "and", 
+    "“theoretical", "thinking”", "of", "any", "kind,", "including", "philosophy", 
+    "itself”", "(paragraph", "4).", "In", "the", "earlier", "examples,", 
+    "reflection", "moved", "towards", "the", "“lost", "watch”", "(paragraph", 
+    "3),", "the", "“lost", "inner", "self”", "(paragraphs", "4", "and", "5),", 
+    "and", "the", "“lost", "friend”", "(paragraphs", "6", "and", "7).", "The", 
+    "objectivity", "of", "primary", "reflection,", "however,", "does", "not", 
+    "just", "depend", "on", "its", "being", "directed", "towards", "the", 
+    "object.", "In", "other", "paragraphs,", "Marcel", "(1950)", "enriches", 
+    "the", "objectivity", "of", "primary", "reflection."
 
-    "From", "this", "note,", "we", "learn", "about", "the", "direction",
-    "of", "primary", "reflection's", "movement:", "\"towards", "the",
-    "object.\"",
 
-    "In", "Gallagher", "(1984),", "we", "learn", "that,", "for", "Marcel,",
-    "an", "object", "\"is", "something", "complete", "and", "entire",
-    "outside", "of", "him", "[the", "inquirer],", "which", "he", "may",
-    "literally", "inspect", "from", "all", "sides\"", "(paragraph", "3).",
+"In", "paragraph", "12,", "Marcel", "(1950)", "describes", "primary", 
+    "reflection", "as", "moving", "by", "tending", "“to", "dissolve", "the", 
+    "unity", "of", "experience", "which", "is", "first", "put", "before", 
+    "it.”", "A", "pre-condition", "of", "the", "move", "“towards", "the", 
+    "object", "whose", "nature", "it", "seeks", "to", "discover”", "is", "a", 
+    "prior", "relationship", "between", "the", "reflecting", "subject", "and", 
+    "the", "object", "of", "reflection.", "This", "prior", "relationship", "is", 
+    "what", "is", "referred", "to", "as", "“the", "unity", "of", "experience", 
+    "which", "is", "first", "put", "before", "it.”", "Primary", "reflection,", 
+    "however,", "must", "“dissolve”", "that", "unity.", "Sweetman", "(1995)", 
+    "interprets", "this", "dissolution", "as", "“abstraction”", "or", "a", 
+    "“developed", "thinking", "from", "our", "submerged", "involvement", "means", 
+    "knowledge”", "(paragraph", "14).", "That", "is", "why", "Marcel", "argues", 
+    "that", "even", "when", "that", "object", "I", "am", "reflecting", "on", 
+    "happens", "to", "be", "mine,", "I", "am", "“forced", "to", "break", "the", 
+    "fragile", "link", "between", "me", "and", "my", "body", "[for", "example]", 
+    "that", "is", "constituted", "here", "by", "the", "word", "‘mine.’”", 
+    "(paragraph", "28).", "Gallagher", "interprets", "this", "dissolution", "as", 
+    "“retreat”", "from", "the", "object.", "Primary", "reflection", "“severs", 
+    "man", "from", "the", "immediacy", "of", "his", "situation;", "in", "the", 
+    "same", "breath", "that", "it", "sets", "up", "the", "world", "of", 
+    "objectivity", "it", "also", "isolates", "the", "subject", "as", "an", 
+    "element", "over", "against", "this", "world.", "For", "both", "subject", 
+    "and", "object,", "this", "stage", "represents", "a", "retreat", "from", 
+    "participation,", "and", "a", "retreat", "from", "existence”", "(1975,", 
+    "paragraph", "1).", "“I", "retreat", "from", "them", "and", "regard", "them", 
+    "intently", "as", "posed", "in", "front", "of", "me”", "(1984,", "paragraph", 
+    "3).", "Hence,", "primary", "reflection", "is", "objective", "thinking", 
+    "for,", "as", "Sweetman", "(1995)", "explains,", "it", "offers", "concepts", 
+    "that", "represent", "“essential", "features", "of", "the", "objects", "of", 
+    "experience", "(at", "an", "abstract", "level)", "as", "they", "really", 
+    "are", "in", "the", "objects”", "(paragraph", "16)."
 
-    "Put", "differently,", "an", "object", "is", "that", "in", "which",
-    "\"the", "data", "as", "presented", "do", "not", "include", "myself\"",
-    "(paragraph", "3).",
-
-    "Because", "primary", "reflection", "is", "\"objective\"", "thinking,",
-    "Sweetman", "(2002)", "equates", "primary", "reflection", "with",
-    "\"'ordinary,'", "everyday", "reflection,\"", "which", "is",
-    "\"operative", "in", "the", "sciences,", "mathematics,", "and",
-    "\"theoretical", "thinking\"", "of", "any", "kind,", "including",
-    "philosophy", "itself\"", "(paragraph", "4).",
-
-    "In", "the", "earlier", "examples,", "reflection", "moved", "towards",
-    "the", "\"lost", "watch\"", "(paragraph", "3),", "the", "lost", "inner",
-    "self\"", "(paragraphs", "4", "and", "5),", "and", "the", "\"lost",
-    "friend\"", "(paragraphs", "6", "and", "7).",
-
-    "The", "objectivity", "of", "primary", "reflection,", "however,", "does",
-    "not", "just", "depend", "on", "its", "being", "directed", "towards",
-    "the", "object.",
-
-    "In", "other", "paragraphs,", "Marcel", "(1950)", "enriches", "the",
-    "objectivity", "of", "primary", "reflection.",
-
-    // ---------------- SECOND SECTION ----------------
-    "In", "paragraph", "12,", "Marcel", "(1950)", "describes", "primary",
-    "reflection", "as", "moving", "by", "tending", "\"to", "dissolve", "the",
-    "unity", "of", "experience", "which", "is", "first", "put", "before",
-    "it.\"",
-
-    "A", "pre-condition", "of", "the", "move", "\"towards", "the", "object",
-    "whose", "nature", "it", "seeks", "to", "discover\"", "is", "a", "prior",
-    "relationship", "between", "the", "reflecting", "subject", "and", "the",
-    "object", "of", "reflection.",
-
-    "This", "prior", "relationship", "is", "what", "is", "referred", "to",
-    "as", "\"the", "unity", "of", "experience", "which", "is", "first", "put",
-    "before", "it.\"",
-
-    "Primary", "reflection,", "however,", "must", "\"dissolve\"", "that",
-    "unity.",
-
-    "Sweetman", "(1995)", "interprets", "this", "dissolution", "as",
-    "\"abstraction\"", "or", "a", "\"developed", "thinking", "from", "our",
-    "submerged", "involvement", "means", "knowledge\"", "(paragraph", "14).",
-
-    "That", "is", "why", "Marcel", "argues", "that", "even", "when", "that",
-    "object", "I", "am", "reflecting", "on", "happens", "to", "be", "mine,",
-    "I", "am", "\"forced", "to", "break", "the", "fragile", "link", "between",
-    "me", "and", "my", "body", "[for", "example]", "that", "is", "constituted",
-    "here", "by", "the", "word", "'mine.'\"", "(paragraph", "28).",
-
-    "Gallagher", "interprets", "this", "dissolution", "as", "\"retreat\"",
-    "from", "the", "object.",
-
-    "Primary", "reflection", "\"severs", "man", "from", "the", "immediacy",
-    "of", "his", "situation;", "in", "the", "same", "breath", "that", "it",
-    "sets", "up", "the", "world", "of", "objectivity", "it", "also",
-    "isolates", "the", "subject", "as", "an", "element", "over", "against",
-    "this", "world.",
-
-    "For", "both", "subject", "and", "object,", "this", "stage", "represents",
-    "a", "retreat", "from", "participation,", "and", "a", "retreat", "from",
-    "existence\"", "(1975,", "paragraph", "1).",
-
-    "\"I", "retreat", "from", "them", "and", "regard", "them", "intently",
-    "as", "posed", "in", "front", "of", "me\"", "(1984,", "paragraph", "3).",
-
-    "Hence,", "primary", "reflection", "is", "objective", "thinking", "for,",
-    "as", "Sweetman", "(1995)", "explains,", "it", "offers", "concepts",
-    "that", "represent", "\"essential", "features", "of", "the", "objects",
-    "of", "experience", "(at", "an", "abstract", "level)", "as", "they",
-    "really", "are", "in", "the", "objects\"", "(paragraph", "16).",
-
-    // ---------------- THIRD SECTION ----------------
-    "In", "paragraph", "28,", "Marcel", "(1950)", "offers", "a", "different",
-    "meaning", "to", "the", "objectivity", "of", "primary", "reflection.",
-
-    "In", "his", "example", "of", "the", "reflection", "on", "my", "body,",
-    "primary", "reflection", "is", "1", "2", "3", "4", "5", "6", "7",
-    "\"radical", "detachment,", "of",
-    "complete", "lack", "of", "interest,", "towards", "the", "fact", "that",
-    "this", "particular", "body", "happens", "to", "be", "mine;",
-
-    "primary", "reflection", "has", "to", "recall", "the", "facts", "that",
-    "this", "body", "has", "just", "the", "same", "properties,", "that", "it",
-    "is", "liable", "to", "suffer", "the", "same", "disorders,", "that", "it",
-    "is", "fated", "in", "the", "end", "to", "undergo", "the", "same",
-    "destruction,", "as", "any", "other", "body", "whatsoever\"", "(paragraph",
-    "28).",
-
-    "Sweetman", "(2002)", "interprets", "this", "to", "mean", "that",
-    "primary", "reflection", "is", "engagement", "\"in", "an", "inquiry",
-    "that", "proceeds", "by", "means", "of", "disinterested", "concepts,",
-    "which", "have", "shareable,", "public,", "and,", "therefore,",
-    "universal", "content\"", "(paragraph", "4).",
-
-    "This", "is", "why", "Sweetman", "(1995)", "also", "calls", "primary",
-    "reflection", "as", "problem-solving", "thinking:", "primary",
-    "reflection", "normally", "arises", "when", "the", "individual", "is",
-    "confronted", "by", "a", "problem", "at", "the", "level", "of",
-    "experience.",
-
-    "However,", "a", "problem", "requires", "a", "solution", "which", "is",
-    "available", "for", "everybody\"", "(paragraph", "15).",
-
-    "They", "require", "knowledge", "that", "is", "\"understood", "by",
-    "everyone", "in", "the", "same", "way\"", "and", "\"represent",
-    "essential", "features", "of", "the", "objects", "of", "experience",
-    "...", "in", "the", "same", "way", "for", "all,", "regardless", "of",
-    "each", "person's", "embodied", "situation", "in", "existence\"",
+"In", "paragraph", "28,", "Marcel", "(1950)", "offers", "a", "different", 
+    "meaning", "to", "the", "objectivity", "of", "primary", "reflection.", 
+    "In", "his", "example", "of", "the", "reflection", "on", "my", "body,", 
+    "primary", "reflection", "is", "1", "2", "3", "4", "5", "6", "7", 
+    "“radical", "detachment,", "of", "complete", "lack", "of", "interest,", 
+    "towards", "the", "fact", "that", "this", "particular", "body", "happens", 
+    "to", "be", "mine;", "primary", "reflection", "has", "to", "recall", "the", 
+    "facts", "that", "this", "body", "has", "just", "the", "same", "properties,", 
+    "that", "it", "is", "liable", "to", "suffer", "the", "same", "disorders,", 
+    "that", "it", "is", "fated", "in", "the", "end", "to", "undergo", "the", 
+    "same", "destruction,", "as", "any", "other", "body", "whatsoever”", 
+    "(paragraph", "28).", "Sweetman", "(2002)", "interprets", "this", "to", 
+    "mean", "that", "primary", "reflection", "is", "engagement", "“in", "an", 
+    "inquiry", "that", "proceeds", "by", "means", "of", "disinterested", 
+    "concepts,", "which", "have", "shareable,", "public,", "and,", "therefore,", 
+    "universal", "content”", "(paragraph", "4).", "This", "is", "why", 
+    "Sweetman", "(1995)", "also", "calls", "primary", "reflection", "as", 
+    "problem-solving", "thinking:", "primary", "reflection", "normally", "arises", 
+    "when", "the", "individual", "is", "confronted", "by", "a", "problem", "at", 
+    "the", "level", "of", "experience.", "However,", "a", "problem", "requires", 
+    "a", "solution", "which", "is", "available", "for", "everybody”", 
+    "(paragraph", "15).", "They", "require", "knowledge", "that", "is", 
+    "“understood", "by", "everyone", "in", "the", "same", "way”", "and", 
+    "“represent", "essential", "features", "of", "the", "objects", "of", 
+    "experience", "...", "in", "the", "same", "way", "for", "all,", "regardless", 
+    "of", "each", "person’s", "embodied", "situation", "in", "existence”", 
     "(paragraph", "16)."
-
-
 
 
 
