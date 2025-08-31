@@ -23,9 +23,14 @@
     "The", "complaint", "and", "the", "advice", "are", "clarified", "in", "a", "conclusion", "Socrates", "offers", "in", "paragraph", "177:", "\"Therefore,", "my", "good", "man,", "while", "what", "virtue", "is", "as", "a", "whole", "is", "still", "being", "sought,", "do", "not", "suppose", "that", "in", "answering", "through", "its", "pieces", "you", "will", "in", "any", "way", "clarify", "it,", "or", "anything", "else,", "by", "speaking", "of", "it", "in", "this", "same", "way,", "but", "consider", "that", "you", "will", "be", "in", "need", "again", "of", "the", "very", "same", "question.\"",
     "In", "other", "words,", "what", "parts", "make", "up", "a", "whole", "can", "only", "be", "recognized", "when", "one", "knows", "the", "whole", "to", "which", "they", "are", "parts."
 
+
+
+
+
+
 //Question29 
 
-"What", "else", "than", "to", "be", "able", "to", "rule", "over", "human",
+  "What", "else", "than", "to", "be", "able", "to", "rule", "over", "human",
   "beings", "--", "if", "indeed", "you", "are", "seeking", "some", "one",
   "thing", "concerning", "all", "of", "them?", "Again,", "Meno,", "we", "have",
   "suffered", "the", "same", "thing.", "Although", "seeking", "one,", "we",
@@ -67,15 +72,13 @@
 
 
 
-
-
 //Question 30 , if theres selectable boxes (multiple choice boxes ,  the ones that have like What + auxiliary verb +...) use the code called : Uma = Ma2(Typing Version , Selectable Boxes)
 
-'How + auxiliary verb + subject + main verb + adverb' , "process", "not only a general knowledge but also a general understanding of the subject being debated",
- 'What + auxiliary verb + subject + main verb', "concrete expressions", "what parts make up a whole can only be recognized when one knows the whole to which they are parts",
+  'How + auxiliary verb + subject + main verb + adverb' , "process", "not only a general knowledge but also a general understanding of the subject being debated",
+  'What + auxiliary verb + subject + main verb', "concrete expressions", "what parts make up a whole can only be recognized when one knows the whole to which they are parts",
   'What + auxiliary verb + subject + main verb', "essence", "some one thing concerning all of them",
 
-"What", "is", "change,", "being,", "motion,", "time,", "space," , "mind,",  "matter\?",
+  "What", "is", "change,", "being,", "motion,", "time,", "space," , "mind,",  "matter\?",
 
   "What", "is", "time?", "If", "no", "one", "asks", "me,", "I", "know;", "if", "I", "wish", "to", "explain", "it", "to", "someone", "who", "asks,", "I", "do", "not", "know.",
   "Philosophy", "consists", "largely", "in", "asking", "these", "questions", "about", "what", "I", "already", "\"know.\"", "Of", "course", "I", "know", "what", "I", "mean", "by", "\"I,\"", "\"self,\"", "\"being,\"", "\"real,\"", "\"mind,\"", "\"matter,\"", "\"change,\"", "\"time,\"", "\"thing,\"", "and", "so", "on.",
@@ -86,7 +89,6 @@
   "consist", "so", "much", "in", "a", "set", "of", "formulated", "answers", "as", "it", "does", "in", "the", "entering", "into", "a", "certain", "kind", "of", "question", 
   "the", "awakening", "out", "of", "acceptance", "turning", "away", "from", "what", "\"everybody", "knows\"", "towards", 
   "the", "real", "as", "it", "is", "delivered", "to", "my", "lived", "consciousness"
-
 
 
 
@@ -172,6 +174,8 @@
 
 
 
+
+
 //Q33 or Num 2, Quiz 2
 // Paragraph 1
     "inner", "life",
@@ -232,7 +236,7 @@
 
 
 
-//Question 34 or Number 3, Quiz 3
+//Q34 or Number 3, (First time ver)
 "somebody", "of", "whom", "I", "was", "fond",
 "disappointing", "behaviour",
 "our", "friendship",
@@ -254,7 +258,7 @@
 
 
 
-//Q34 or Num 3, Quiz 4
+//Q34 or Num 3, (THE USUAL VER)
 //note: yes, the string does use curly “ not straights, so it wont do “&quot;
 
 "In", "the", "third", "example", "(paragraphs", "6-7),", "Marcel", "(1950)", "gives", "an", "easier", "access", "to", "the", "notion", "of", "reflection", "at", "the", "properly", "philosophical", "(that", "is,", "“broader”", "and", "“more", "intimate”)", "level.",
