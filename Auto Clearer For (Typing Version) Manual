@@ -1,4 +1,4 @@
-const numBoxes = 552;  // Change this to however many sub boxes exist
+const numBoxes = 1000;  // Change this to however many sub boxes exist
 
 // STEP 1: Loop through and clear each box
 for (let i = 1; i <= numBoxes; i++) {
